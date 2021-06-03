@@ -117,7 +117,7 @@ export function _fetch(data) {
         if (vals.ok) {
           resolve(vals);
         } else {
-          reject(resolve(vals));
+          reject(vals);
         }
       })
       .catch((error) => {
