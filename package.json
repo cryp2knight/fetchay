@@ -1,0 +1,24 @@
+{
+  "name": "fetchay",
+  "version": "1.0.0",
+  "description": "Lite HTTP request module wrapper for fetch API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryp2knight/fetchay.git"
+  },
+  "keywords": [
+    "fetch",
+    "http",
+    "json"
+  ],
+  "author": "Daniel De Castro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryp2knight/fetchay/issues"
+  },
+  "homepage": "https://github.com/cryp2knight/fetchay#readme"
+}
