@@ -1,6 +1,6 @@
 {
   "name": "fetchay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lite HTTP request module wrapper for fetch API",
   "main": "index.js",
   "scripts": {
